@@ -9,4 +9,6 @@ public class DevopsbuddyApplication {
     public static void main(String[] args) {
         SpringApplication.run(DevopsbuddyApplication.class, args);
     }
+
+
 }
